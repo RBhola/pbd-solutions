@@ -1,3 +1,13 @@
+Linux commands:
+ls    //listing directory contents
+cd    //changing the working directory
+cd..  //move backwards to previous directory
+mkdir //make directory
+touch //create empty file
+rm <file> // remove file
+gedit <filename> & // run gedit in terminal
+javac <ClassName>.java //Compile .java file
+java <ClassName> // runs program
 public class One {
   public static void main(String [] args) {
     System.out.println("Hello ");
